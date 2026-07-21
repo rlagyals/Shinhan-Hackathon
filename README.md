@@ -12,6 +12,7 @@
 
 🏆 **수상 : 최우수상, 교육부장관상**
 
+<img src="Readme_assets/신빅해_발표본_1.png" alt="표지" width="1920" height="1080" />
 ---
 
 ## 주요 기능
@@ -22,19 +23,45 @@
 
 
 ## 분석 배경 EDA
+<img src="Readme_assets/신빅해_발표본_7.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_08.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_09.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_10.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_11.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_12.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_13.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_14.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_15.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_17.png" alt="표지" width="1920" height="1080" />
+
+
+
+## Persona
+<img src="Readme_assets/신빅해_발표본_18.png" alt="표지" width="1920" height="1080" />
+<img src="Readme_assets/신빅해_발표본_19.png" alt="표지" width="1920" height="1080" />
+
+
 
 
 ## 서비스 화면 및 기능 소개
 
-**서비스 메인 화면**
+**🖥️ 서비스 메인 화면**
+<img src="Readme_assets/신빅해_발표본_21.png" alt="표지" width="1920" height="1080" />
 
-**투자 계좌 현황**
 
-**메인 화면**
+**📊 투자 계좌 현황**
+<img src="Readme_assets/신빅해_발표본_22.png" alt="표지" width="1920" height="1080" />
 
-**가족 목표 생성**
 
-**월간 투자 보고서**
+**🏠 메인 화면**
+
+**🎯 가족 목표 생성**
+<img src="Readme_assets/신빅해_발표본_3.png" alt="표지" width="1920" height="1080" />
+
+
+**📈 월간 투자 보고서**
+<img src="Readme_assets/신빅해_발표본_24.png" alt="표지" width="1920" height="1080" />
+
 
 
 
